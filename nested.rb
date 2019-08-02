@@ -15,7 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-    programmer_hash[:known_for] = "FORTRAN"
+    programmer_hash[:known_for] = "COBOL", "FORTRAN"
 
 
 end
